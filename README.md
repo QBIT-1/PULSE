@@ -60,21 +60,6 @@ PULSE is a DIY MP3 player made for audio and electronics enthusiasts, built arou
 
 ---
 
-## Gallery
-
-
-
-![PULSE front](pulse_front.jpg)
-
-
-
-
-![PULSE internals](pulse_internals.jpg)
-
-
-
----
-
 ## Status
 
 🚧 Actively in development — UI, playlist system, and audio pipeline are being iterated on.
